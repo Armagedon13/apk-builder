@@ -147,7 +147,38 @@ enabled = true
 version = "auto"
 uptodown-dlurl = "https://infinity-for-reddit.en.uptodown.com/android"
 
-[Music-anddea]
+[YouTube-rex]
+enabled = true
+app-name = "YouTube"
+version = "latest"
+patches-source = "YT-Advanced/ReX-patches"
+integrations-source = "YT-Advanced/ReX-integrations"
+rv-brand = "ReX"
+build-mode = "apk"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+
+[Music-rex]
+enabled = true
+app-name = "Music"
+version = "latest"
+patches-source = "YT-Advanced/ReX-patches"
+integrations-source = "YT-Advanced/ReX-integrations"
+rv-brand = "ReX"
+build-mode = "apk"
+uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
+arch = "both"
+
+[Youtube-anndea]
+enabled = true
+app-name = "YouTube"
+version = "auto"
+patches-source = "anddea/revanced-patches"
+integrations-source = "anddea/revanced-integrations"
+rv-brand = "anddea"
+build-mode = "apk"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+
+[Music-anndea]
 enabled = true
 app-name = "Music"
 version = "latest"
@@ -157,16 +188,6 @@ rv-brand = "anddea"
 build-mode = "apk"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 arch = "both"
-
-[YouTube-anddea]
-enabled = true
-app-name = "YouTube"
-version = "auto"
-patches-source = "anddea/revanced-patches"
-integrations-source = "anddea/revanced-integrations"
-rv-brand = "anddea"
-build-mode = "apk"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 
 [VSCO]
 enabled = true
