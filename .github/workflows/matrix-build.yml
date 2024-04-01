@@ -4,10 +4,10 @@ on:
     secrets:
       TELEGRAM_TOKEN:
         description: "Telegram Bot Token"
-        required: true
+        required: false
       TELEGRAM_TO:
         description: "Telegram Chat ID"
-        required: true
+        required: false
     inputs:
       from_ci:
         type: boolean
@@ -58,6 +58,8 @@ jobs:
         include:
           - id: "YouTube-anddea"
           - id: "Music-anddea"
+          - id: "YouTube-rex"
+          - id: "Music-rex"
           - id: "YouTube"
           - id: "Music"
           - id: "Twitter"
