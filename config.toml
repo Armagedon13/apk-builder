@@ -168,7 +168,7 @@ build-mode = "apk"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 arch = "both"
 
-[Youtube-anndea]
+[Youtube-anddea]
 enabled = true
 app-name = "YouTube"
 version = "auto"
@@ -178,7 +178,7 @@ rv-brand = "anddea"
 build-mode = "apk"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 
-[Music-anndea]
+[Music-anddea]
 enabled = true
 app-name = "Music"
 version = "latest"
