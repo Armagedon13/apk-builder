@@ -5,10 +5,10 @@ Integrations: ReVanced
 ReVanced/revanced-integrations-1.7.0.apk
 revanced-integrations-1.7.0.apk.asc  
 Patches: ReVanced
-ReVanced/revanced-patches-4.5.0.jar
-revanced-patches-4.5.0.jar.asc  
-[Changelog](https://github.com/revanced/revanced-patches/releases/tag/v4.5.0
-4.5.0.jar)
+ReVanced/revanced-patches-4.6.0.jar
+revanced-patches-4.6.0.jar.asc  
+[Changelog](https://github.com/revanced/revanced-patches/releases/tag/v4.6.0
+4.6.0.jar)
 
 
 
